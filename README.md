@@ -1,15 +1,21 @@
 # export-management-db
 
-Acest proiect constă în construirea unei baze de date fictive pentru gestionarea exporturilor, având ca scop simularea proceselor de monitorizare, organizare și analiză a comerțului internațional.
+This project involves the creation of a fictional database for export management, aimed at simulating the processes of monitoring, organizing, and analyzing international trade.
 
-Baza de date este orientată în special spre exportul de produse IT și electronice (telefoane, laptopuri, accesorii și gadgeturi) și conține mai multe tabele interconectate, precum:
+The database is primarily focused on the export of IT and electronic products (phones, laptops, accessories, and gadgets) and includes several interconnected tables, such as:
 
-Produse – detalii despre bunurile exportate;
-Regiuni & Țări – locații de export și sedii comerciale;
-Parteneri Comerciali – informații despre colaboratori externi;
-Comenzi – legături între parteneri și produsele exportate;
-Transporturi – date despre modalități și termene de livrare;
-Puncte de Frontieră – zone de tranzit între țări;
-Exporturi (centrală) – corelează comenzile, produsele, transporturile și sediile;
+Products – details about the exported goods;
 
-Prin această structură, baza de date evidențiază modul în care automatizarea și centralizarea informațiilor pot sprijini eficiența proceselor de export, reducând erorile umane și facilitând deciziile strategice.
+Regions & Countries – export locations and commercial headquarters;
+
+Business Partners – information about external collaborators;
+
+Orders – links between partners and exported products;
+
+Transports – data on delivery methods and timelines;
+
+Border Points – transit zones between countries;
+
+Exports (central table) – correlates orders, products, transports, and headquarters.
+
+This structure demonstrates how automation and centralization of information can enhance the efficiency of export processes, reduce human errors, and support strategic decision-making.
