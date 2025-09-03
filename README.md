@@ -2,7 +2,7 @@
 
 This project uses SQL and PL/SQL to create a fictional export management database, simulating the monitoring, organization, and analysis of international trade. Focused on IT and electronic products (phones, laptops, accessories, gadgets), it includes interconnected tables for products, regions & countries, business partners, orders, transports, border points, and exports.
 
-The updated version emphasizes database creation and advanced PL/SQL features, including:
+The extended version emphasizes database creation and advanced PL/SQL features, including:
 
 Table creation and data insertion
 
