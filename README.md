@@ -11,3 +11,5 @@ Control structures, cursors, and exception handling
 Procedures and functions
 
 This SQL/PLSQL-based database demonstrates how centralized and automated information can improve efficiency, reduce errors, and support strategic decision-making.
+
+Note: Project documentation is written in Romanian.
